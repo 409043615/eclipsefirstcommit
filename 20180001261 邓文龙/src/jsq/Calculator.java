@@ -13,7 +13,7 @@ import javax.swing.JTextField;
 
 /**
  * 一个计算器，与Windows附件自带计算器的标准版功能、界面相仿。 但还不支持键盘操作。
- */
+ 122221*/
 public class Calculator extends JFrame implements ActionListener {
 	/** 计算器上的键的显示名字 */
 	private final String[] KEYS = { "7", "8", "9", "/", "sqrt", "4", "5", "6",
